@@ -1,0 +1,6 @@
+D:\NTU\HOMEWORK1\Problem1\Problem1\bin\Debug\Problem1.exe.config
+D:\NTU\HOMEWORK1\Problem1\bin\Debug\Problem1.exe.config
+D:\NTU\HOMEWORK1\Problem1\bin\Debug\Problem1.exe
+D:\NTU\HOMEWORK1\Problem1\bin\Debug\Problem1.pdb
+D:\NTU\HOMEWORK1\Problem1\obj\Debug\Problem1.exe
+D:\NTU\HOMEWORK1\Problem1\obj\Debug\Problem1.pdb
