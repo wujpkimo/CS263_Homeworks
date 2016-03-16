@@ -1,0 +1,5 @@
+D:\NTU\HOMEWORK2\Values\bin\Debug\Values.dll
+D:\NTU\HOMEWORK2\Values\bin\Debug\Values.pdb
+D:\NTU\HOMEWORK2\Values\obj\Debug\Values.csprojResolveAssemblyReference.cache
+D:\NTU\HOMEWORK2\Values\obj\Debug\Values.dll
+D:\NTU\HOMEWORK2\Values\obj\Debug\Values.pdb

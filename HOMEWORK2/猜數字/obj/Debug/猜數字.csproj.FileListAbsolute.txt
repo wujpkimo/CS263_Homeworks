@@ -1,0 +1,12 @@
+D:\NTU\HOMEWORK2\HOMEWORK2\猜數字\bin\Debug\猜數字.exe.config
+D:\NTU\HOMEWORK2\猜數字\bin\Debug\猜數字.exe.config
+D:\NTU\HOMEWORK2\猜數字\bin\Debug\猜數字.exe
+D:\NTU\HOMEWORK2\猜數字\bin\Debug\猜數字.pdb
+D:\NTU\HOMEWORK2\猜數字\bin\Debug\Values.dll
+D:\NTU\HOMEWORK2\猜數字\bin\Debug\Values.pdb
+D:\NTU\HOMEWORK2\猜數字\obj\Debug\猜數字.csprojResolveAssemblyReference.cache
+D:\NTU\HOMEWORK2\猜數字\obj\Debug\猜數字.Form1.resources
+D:\NTU\HOMEWORK2\猜數字\obj\Debug\猜數字.Properties.Resources.resources
+D:\NTU\HOMEWORK2\猜數字\obj\Debug\猜數字.csproj.GenerateResource.Cache
+D:\NTU\HOMEWORK2\猜數字\obj\Debug\猜數字.exe
+D:\NTU\HOMEWORK2\猜數字\obj\Debug\猜數字.pdb

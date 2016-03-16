@@ -4,3 +4,6 @@ D:\NTU\HOMEWORK1\Problem1\bin\Debug\Problem1.exe
 D:\NTU\HOMEWORK1\Problem1\bin\Debug\Problem1.pdb
 D:\NTU\HOMEWORK1\Problem1\obj\Debug\Problem1.exe
 D:\NTU\HOMEWORK1\Problem1\obj\Debug\Problem1.pdb
+D:\Git\NewRepo\HOMEWORK1\Problem1\bin\Debug\Problem1.exe.config
+D:\Git\NewRepo\HOMEWORK1\Problem1\obj\Debug\Problem1.exe
+D:\Git\NewRepo\HOMEWORK1\Problem1\obj\Debug\Problem1.pdb
