@@ -1,8 +1,0 @@
-D:\NTU\HOMEWORK2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-D:\NTU\HOMEWORK2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
-D:\NTU\HOMEWORK2\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-D:\NTU\HOMEWORK2\ConsoleApplication1\bin\Debug\Values.dll
-D:\NTU\HOMEWORK2\ConsoleApplication1\bin\Debug\Values.pdb
-D:\NTU\HOMEWORK2\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
-D:\NTU\HOMEWORK2\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-D:\NTU\HOMEWORK2\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
