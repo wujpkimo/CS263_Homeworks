@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.Reset = new System.Windows.Forms.Button();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.AnsText = new System.Windows.Forms.TextBox();
             this.Summit = new System.Windows.Forms.Button();
             this.Ans = new System.Windows.Forms.Label();
             this.MegLabel = new System.Windows.Forms.Label();
@@ -46,13 +46,13 @@
             this.Reset.UseVisualStyleBackColor = true;
             this.Reset.Click += new System.EventHandler(this.button1_Click);
             // 
-            // textBox1
+            // AnsText
             // 
-            this.textBox1.Location = new System.Drawing.Point(135, 34);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 22);
-            this.textBox1.TabIndex = 1;
-            this.textBox1.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.CheckKeys);
+            this.AnsText.Location = new System.Drawing.Point(135, 34);
+            this.AnsText.Name = "AnsText";
+            this.AnsText.Size = new System.Drawing.Size(100, 22);
+            this.AnsText.TabIndex = 1;
+            this.AnsText.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.CheckKeys);
             // 
             // Summit
             // 
@@ -100,7 +100,7 @@
             this.Controls.Add(this.MegLabel);
             this.Controls.Add(this.Ans);
             this.Controls.Add(this.Summit);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.AnsText);
             this.Controls.Add(this.Reset);
             this.Name = "Form1";
             this.Text = "Form1";
@@ -112,7 +112,7 @@
         #endregion
 
         private System.Windows.Forms.Button Reset;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox AnsText;
         private System.Windows.Forms.Button Summit;
         private System.Windows.Forms.Label Ans;
         private System.Windows.Forms.Label MegLabel;

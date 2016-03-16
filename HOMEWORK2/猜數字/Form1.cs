@@ -28,22 +28,24 @@ namespace 猜數字
             { };
             aQ.GetQ("0", "0", "0", "0", "0");
             Ans.Text = aQ.Q;
+            Summit.Enabled = true;
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
         }
 
-        private void CheckKeys(object sender, System.Windows.Forms.KeyPressEventArgs e)
+        private void CheckKeys(object sender, KeyPressEventArgs e)
         {
             if (e.KeyChar == (char)13)
             {
                 // Enter is pressed - do something
-                if (textBox1.Text == Ans.Text)
-                {
-                    Summit.Enabled = false;
-                    Meg.Text = "恭喜您，猜中了！";
-                }
+                if (AnsText.TextLength > 4 || AnsText.Text.Substring(1, 1) == aQ.Q1)
+                    if (AnsText.Text == Ans.Text)
+                    {
+                        Summit.Enabled = false;
+                        Meg.Text = "恭喜您，猜中了！";
+                    }
             }
         }
 
