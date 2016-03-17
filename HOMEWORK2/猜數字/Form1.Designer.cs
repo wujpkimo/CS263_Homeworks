@@ -72,6 +72,7 @@
             this.Ans.Size = new System.Drawing.Size(23, 12);
             this.Ans.TabIndex = 4;
             this.Ans.Text = "Ans";
+            this.Ans.Visible = false;
             // 
             // MegLabel
             // 
@@ -81,7 +82,6 @@
             this.MegLabel.Size = new System.Drawing.Size(44, 12);
             this.MegLabel.TabIndex = 5;
             this.MegLabel.Text = "Message";
-            this.MegLabel.Click += new System.EventHandler(this.label2_Click);
             // 
             // Meg
             // 
@@ -103,7 +103,8 @@
             this.Controls.Add(this.AnsText);
             this.Controls.Add(this.Reset);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "猜數字v0.1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
