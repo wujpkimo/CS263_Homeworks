@@ -8,26 +8,26 @@ namespace Values
 {
     public class Qgenretor
     {
-        public string Q;
-        public string Q1;
-        public string Q2;
-        public string Q3;
-        public string Q4;
+        public string[] Q = new string[4];
+        public string QA;
 
-        public void GetQ(string Q, string Q1, string Q2, string Q3, string Q4)
+        public string GetQ()
         {
             Random rnd = new Random();
-            this.Q1 = rnd.Next(0, 10).ToString();
-            this.Q2 = rnd.Next(0, 10).ToString();
-            this.Q3 = rnd.Next(0, 10).ToString();
-            this.Q4 = rnd.Next(0, 10).ToString();
-            while (this.Q2 == this.Q1 || this.Q3 == this.Q1 || this.Q4 == this.Q1 || this.Q3 == this.Q2 || this.Q4 == this.Q2 || this.Q4 == this.Q3)
+            for (int i = 0; i < 4; i++)
             {
-                this.Q2 = rnd.Next(0, 10).ToString();
-                this.Q3 = rnd.Next(0, 10).ToString();
-                this.Q4 = rnd.Next(0, 10).ToString();
+                this.Q[i] = rnd.Next(0, 10).ToString();
             }
-            this.Q = this.Q1 + this.Q2 + this.Q3 + this.Q4;
+            while (this.Q[0] == this.Q[1] || this.Q[0] == this.Q[2] ||
+                this.Q[0] == this.Q[3] || this.Q[1] == this.Q[2] || this.Q[1] == this.Q[3] || this.Q[2] == this.Q[3])
+            {
+                for (int i = 0; i < 4; i++)
+                {
+                    this.Q[i] = rnd.Next(0, 10).ToString();
+                }
+            }
+            this.QA = this.Q[0] + this.Q[1] + this.Q[2] + this.Q[3];
+            return this.QA;
         }
     }
 }
