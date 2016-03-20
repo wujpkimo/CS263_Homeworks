@@ -30,5 +30,12 @@ namespace 剪刀石頭布
             }
             return this.Q;
         }
+
+        public void Chk(int P1, int P2)
+        {
+            if (P1 > P2 && P1 != 2)
+            {
+            }
+        }
     }
 }
