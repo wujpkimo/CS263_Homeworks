@@ -1,0 +1,7 @@
+D:\Git\NewRepo\Homework(0318)-StudentSystem\Main\bin\Debug\Main.exe.config
+D:\Git\NewRepo\Homework(0318)-StudentSystem\Main\bin\Debug\Main.exe
+D:\Git\NewRepo\Homework(0318)-StudentSystem\Main\bin\Debug\Main.pdb
+D:\Git\NewRepo\Homework(0318)-StudentSystem\Main\obj\Debug\Main.exe
+D:\Git\NewRepo\Homework(0318)-StudentSystem\Main\obj\Debug\Main.pdb
+D:\Git\NewRepo\Homework(0318)-StudentSystem\Main\bin\Debug\ScoreCalculationLibrary.dll
+D:\Git\NewRepo\Homework(0318)-StudentSystem\Main\bin\Debug\ScoreCalculationLibrary.pdb

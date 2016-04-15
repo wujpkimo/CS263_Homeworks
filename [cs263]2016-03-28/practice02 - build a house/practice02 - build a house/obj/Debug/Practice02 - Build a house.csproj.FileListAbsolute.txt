@@ -1,0 +1,22 @@
+D:\Dropbox\workspace\VS2012\Practice02 - Build a house\Practice02 - Build a house\bin\Debug\Practice02 - Build a house.exe.config
+\\psf\Dropbox\工作記錄區\03.系統訓練班\2014 - 239 C# 進階班\[ACS239] 第2講 介面與抽象類別\Practice Code\Practice02 - Build a house\Practice02 - Build a house\bin\Debug\Practice02 - Build a house.exe.config
+\\psf\Dropbox\工作記錄區\03.系統訓練班\2014 - 239 C# 進階班\[ACS239] 第2講 介面與抽象類別\Practice Code\Practice02 - Build a house\Practice02 - Build a house\bin\Debug\Practice02 - Build a house.exe
+\\psf\Dropbox\工作記錄區\03.系統訓練班\2014 - 239 C# 進階班\[ACS239] 第2講 介面與抽象類別\Practice Code\Practice02 - Build a house\Practice02 - Build a house\bin\Debug\Practice02 - Build a house.pdb
+\\psf\Dropbox\工作記錄區\03.系統訓練班\2014 - 239 C# 進階班\[ACS239] 第2講 介面與抽象類別\Practice Code\Practice02 - Build a house\Practice02 - Build a house\obj\Debug\Practice02 - Build a house.csprojResolveAssemblyReference.cache
+\\psf\Dropbox\工作記錄區\03.系統訓練班\2014 - 239 C# 進階班\[ACS239] 第2講 介面與抽象類別\Practice Code\Practice02 - Build a house\Practice02 - Build a house\obj\Debug\Practice02___Build_a_house.Form1.resources
+\\psf\Dropbox\工作記錄區\03.系統訓練班\2014 - 239 C# 進階班\[ACS239] 第2講 介面與抽象類別\Practice Code\Practice02 - Build a house\Practice02 - Build a house\obj\Debug\Practice02___Build_a_house.Properties.Resources.resources
+\\psf\Dropbox\工作記錄區\03.系統訓練班\2014 - 239 C# 進階班\[ACS239] 第2講 介面與抽象類別\Practice Code\Practice02 - Build a house\Practice02 - Build a house\obj\Debug\Practice02 - Build a house.csproj.GenerateResource.Cache
+\\psf\Dropbox\工作記錄區\03.系統訓練班\2014 - 239 C# 進階班\[ACS239] 第2講 介面與抽象類別\Practice Code\Practice02 - Build a house\Practice02 - Build a house\obj\Debug\Practice02 - Build a house.exe
+\\psf\Dropbox\工作記錄區\03.系統訓練班\2014 - 239 C# 進階班\[ACS239] 第2講 介面與抽象類別\Practice Code\Practice02 - Build a house\Practice02 - Build a house\obj\Debug\Practice02 - Build a house.pdb
+\\psf\Dropbox\工作記錄區\03.系統訓練班\2014 - 246 C# 進階班\[ACS246] 第2講 介面與抽象類別\練習程式碼\Practice02 - Build a house\Practice02 - Build a house\bin\Debug\Practice02 - Build a house.exe.config
+\\psf\Dropbox\工作記錄區\03.系統訓練班\2014 - 246 C# 進階班\[ACS246] 第2講 介面與抽象類別\練習程式碼\Practice02 - Build a house\Practice02 - Build a house\obj\Debug\Practice02 - Build a house.exe
+\\psf\Dropbox\工作記錄區\03.系統訓練班\2014 - 246 C# 進階班\[ACS246] 第2講 介面與抽象類別\練習程式碼\Practice02 - Build a house\Practice02 - Build a house\obj\Debug\Practice02 - Build a house.pdb
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 260 C# 基礎班\第07講 物件導向基礎 (3) 繼承\練習用程式碼\Practice02 - Build a house\Practice02 - Build a house\bin\Debug\Practice02 - Build a house.exe.config
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 260 C# 基礎班\第07講 物件導向基礎 (3) 繼承\練習用程式碼\Practice02 - Build a house\Practice02 - Build a house\obj\Debug\Practice02 - Build a house.exe
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 260 C# 基礎班\第07講 物件導向基礎 (3) 繼承\練習用程式碼\Practice02 - Build a house\Practice02 - Build a house\obj\Debug\Practice02 - Build a house.pdb
+D:\NTU\2015 - 263 C# 基礎班\上課錄影與範例\2016-03-28\[cs263]2016-03-28\Practice02 - Build a house\practice02 - build a house\obj\Debug\Practice02 - Build a house.csprojResolveAssemblyReference.cache
+D:\NTU\2015 - 263 C# 基礎班\上課錄影與範例\2016-03-28\[cs263]2016-03-28\Practice02 - Build a house\practice02 - build a house\obj\Debug\Practice02___Build_a_house.Form1.resources
+D:\NTU\2015 - 263 C# 基礎班\上課錄影與範例\2016-03-28\[cs263]2016-03-28\Practice02 - Build a house\practice02 - build a house\obj\Debug\Practice02___Build_a_house.Properties.Resources.resources
+D:\NTU\2015 - 263 C# 基礎班\上課錄影與範例\2016-03-28\[cs263]2016-03-28\Practice02 - Build a house\practice02 - build a house\obj\Debug\Practice02 - Build a house.csproj.GenerateResource.Cache
+D:\NTU\2015 - 263 C# 基礎班\上課錄影與範例\2016-03-28\[cs263]2016-03-28\Practice02 - Build a house\practice02 - build a house\obj\Debug\Practice02 - Build a house.exe
+D:\NTU\2015 - 263 C# 基礎班\上課錄影與範例\2016-03-28\[cs263]2016-03-28\Practice02 - Build a house\practice02 - build a house\obj\Debug\Practice02 - Build a house.pdb

@@ -1,0 +1,19 @@
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 260 C# 基礎班\第07講 物件導向基礎 (3) 繼承\練習用程式碼\Practice01 - BirthdayParty\BirthdayParty (first version)\bin\Debug\BirthdayParty (first version).exe.config
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 263 C# 基礎班\上課錄影與範例\2016-03-25\[CS263]2016-03-25\Practice01 - BirthdayParty\BirthdayParty (first version)\bin\Debug\BirthdayParty (first version).exe.config
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 263 C# 基礎班\上課錄影與範例\2016-03-25\[CS263]2016-03-25\Practice01 - BirthdayParty\BirthdayParty (first version)\bin\Debug\BirthdayParty (first version).exe
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 263 C# 基礎班\上課錄影與範例\2016-03-25\[CS263]2016-03-25\Practice01 - BirthdayParty\BirthdayParty (first version)\bin\Debug\BirthdayParty (first version).pdb
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 263 C# 基礎班\上課錄影與範例\2016-03-25\[CS263]2016-03-25\Practice01 - BirthdayParty\BirthdayParty (first version)\obj\Debug\BirthdayParty (first version).csprojResolveAssemblyReference.cache
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 263 C# 基礎班\上課錄影與範例\2016-03-25\[CS263]2016-03-25\Practice01 - BirthdayParty\BirthdayParty (first version)\obj\Debug\BirthdayParty__first_version_.Form1.resources
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 263 C# 基礎班\上課錄影與範例\2016-03-25\[CS263]2016-03-25\Practice01 - BirthdayParty\BirthdayParty (first version)\obj\Debug\BirthdayParty__first_version_.Properties.Resources.resources
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 263 C# 基礎班\上課錄影與範例\2016-03-25\[CS263]2016-03-25\Practice01 - BirthdayParty\BirthdayParty (first version)\obj\Debug\BirthdayParty (first version).csproj.GenerateResource.Cache
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 263 C# 基礎班\上課錄影與範例\2016-03-25\[CS263]2016-03-25\Practice01 - BirthdayParty\BirthdayParty (first version)\obj\Debug\BirthdayParty (first version).exe
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 263 C# 基礎班\上課錄影與範例\2016-03-25\[CS263]2016-03-25\Practice01 - BirthdayParty\BirthdayParty (first version)\obj\Debug\BirthdayParty (first version).pdb
+D:\NTU\2015 - 263 C# 基礎班\上課錄影與範例\2016-03-28\[cs263]2016-03-28\Practice01 - BirthdayParty\BirthdayParty (first version)\bin\Debug\BirthdayParty (first version).exe.config
+D:\NTU\2015 - 263 C# 基礎班\上課錄影與範例\2016-03-28\[cs263]2016-03-28\Practice01 - BirthdayParty\BirthdayParty (first version)\obj\Debug\BirthdayParty (first version).exe
+D:\NTU\2015 - 263 C# 基礎班\上課錄影與範例\2016-03-28\[cs263]2016-03-28\Practice01 - BirthdayParty\BirthdayParty (first version)\obj\Debug\BirthdayParty (first version).pdb
+D:\NTU\2015 - 263 C# 基礎班\上課錄影與範例\2016-03-28\[cs263]2016-03-28\Practice01 - BirthdayParty\BirthdayParty (first version)\bin\Debug\BirthdayParty (first version).exe
+D:\NTU\2015 - 263 C# 基礎班\上課錄影與範例\2016-03-28\[cs263]2016-03-28\Practice01 - BirthdayParty\BirthdayParty (first version)\bin\Debug\BirthdayParty (first version).pdb
+D:\NTU\2015 - 263 C# 基礎班\上課錄影與範例\2016-03-28\[cs263]2016-03-28\Practice01 - BirthdayParty\BirthdayParty (first version)\obj\Debug\BirthdayParty (first version).csprojResolveAssemblyReference.cache
+D:\NTU\2015 - 263 C# 基礎班\上課錄影與範例\2016-03-28\[cs263]2016-03-28\Practice01 - BirthdayParty\BirthdayParty (first version)\obj\Debug\BirthdayParty__first_version_.Form1.resources
+D:\NTU\2015 - 263 C# 基礎班\上課錄影與範例\2016-03-28\[cs263]2016-03-28\Practice01 - BirthdayParty\BirthdayParty (first version)\obj\Debug\BirthdayParty__first_version_.Properties.Resources.resources
+D:\NTU\2015 - 263 C# 基礎班\上課錄影與範例\2016-03-28\[cs263]2016-03-28\Practice01 - BirthdayParty\BirthdayParty (first version)\obj\Debug\BirthdayParty (first version).csproj.GenerateResource.Cache

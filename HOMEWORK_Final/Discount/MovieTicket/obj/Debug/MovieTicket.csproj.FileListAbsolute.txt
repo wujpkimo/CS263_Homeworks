@@ -1,0 +1,14 @@
+D:\NTU\HOMEWORK_Final\Discount\MovieTicket\bin\Debug\MovieTicket.exe.config
+D:\NTU\HOMEWORK_Final\Discount\MovieTicket\bin\Debug\MovieTicket.exe
+D:\NTU\HOMEWORK_Final\Discount\MovieTicket\bin\Debug\MovieTicket.pdb
+D:\NTU\HOMEWORK_Final\Discount\MovieTicket\obj\Debug\MovieTicket.csprojResolveAssemblyReference.cache
+D:\NTU\HOMEWORK_Final\Discount\MovieTicket\obj\Debug\MovieTicket.Form1.resources
+D:\NTU\HOMEWORK_Final\Discount\MovieTicket\obj\Debug\MovieTicket.Properties.Resources.resources
+D:\NTU\HOMEWORK_Final\Discount\MovieTicket\obj\Debug\MovieTicket.csproj.GenerateResource.Cache
+D:\NTU\HOMEWORK_Final\Discount\MovieTicket\obj\Debug\MovieTicket.exe
+D:\NTU\HOMEWORK_Final\Discount\MovieTicket\obj\Debug\MovieTicket.pdb
+D:\NTU\HOMEWORK_Final\Discount\MovieTicket\bin\Debug\DiscountLibary.dll
+D:\NTU\HOMEWORK_Final\Discount\MovieTicket\bin\Debug\DiscountLibary.pdb
+D:\Git\NewRepo\HOMEWORK_Final\Discount\MovieTicket\bin\Debug\MovieTicket.exe.config
+D:\Git\NewRepo\HOMEWORK_Final\Discount\MovieTicket\obj\Debug\MovieTicket.exe
+D:\Git\NewRepo\HOMEWORK_Final\Discount\MovieTicket\obj\Debug\MovieTicket.pdb

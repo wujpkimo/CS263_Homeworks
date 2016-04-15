@@ -1,0 +1,5 @@
+D:\NTU\HOMEWORK_Final\Discount\Discount\bin\Debug\Discount.dll
+D:\NTU\HOMEWORK_Final\Discount\Discount\bin\Debug\Discount.pdb
+D:\NTU\HOMEWORK_Final\Discount\Discount\obj\Debug\Discount.csprojResolveAssemblyReference.cache
+D:\NTU\HOMEWORK_Final\Discount\Discount\obj\Debug\Discount.dll
+D:\NTU\HOMEWORK_Final\Discount\Discount\obj\Debug\Discount.pdb

@@ -1,0 +1,6 @@
+D:\Git\NewRepo\課堂練習\剪刀石頭布\bin\Debug\剪刀石頭布.exe.config
+D:\Git\NewRepo\課堂練習\剪刀石頭布\bin\Debug\剪刀石頭布.exe
+D:\Git\NewRepo\課堂練習\剪刀石頭布\bin\Debug\剪刀石頭布.pdb
+D:\Git\NewRepo\課堂練習\剪刀石頭布\obj\Debug\剪刀石頭布.csprojResolveAssemblyReference.cache
+D:\Git\NewRepo\課堂練習\剪刀石頭布\obj\Debug\剪刀石頭布.exe
+D:\Git\NewRepo\課堂練習\剪刀石頭布\obj\Debug\剪刀石頭布.pdb
