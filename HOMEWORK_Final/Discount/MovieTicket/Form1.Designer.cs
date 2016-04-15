@@ -37,6 +37,7 @@
             this.PriceTextBox = new System.Windows.Forms.TextBox();
             this.PriceLabel = new System.Windows.Forms.Label();
             this.SummaryButton = new System.Windows.Forms.Button();
+            this.ResetBotton = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // TicketCateComboBox
@@ -57,6 +58,7 @@
             // 
             // ResultTextBox
             // 
+            this.ResultTextBox.Enabled = false;
             this.ResultTextBox.Font = new System.Drawing.Font("微軟正黑體", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.ResultTextBox.Location = new System.Drawing.Point(55, 123);
             this.ResultTextBox.Multiline = true;
@@ -141,7 +143,20 @@
             this.SummaryButton.TabIndex = 3;
             this.SummaryButton.Text = "結帳";
             this.SummaryButton.UseVisualStyleBackColor = true;
+            this.SummaryButton.Visible = false;
             this.SummaryButton.Click += new System.EventHandler(this.summaryButton_Click);
+            // 
+            // ResetBotton
+            // 
+            this.ResetBotton.Font = new System.Drawing.Font("微軟正黑體", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.ResetBotton.Location = new System.Drawing.Point(519, 28);
+            this.ResetBotton.Name = "ResetBotton";
+            this.ResetBotton.Size = new System.Drawing.Size(106, 35);
+            this.ResetBotton.TabIndex = 3;
+            this.ResetBotton.Text = "新客戶";
+            this.ResetBotton.UseVisualStyleBackColor = true;
+            this.ResetBotton.Visible = false;
+            this.ResetBotton.Click += new System.EventHandler(this.ResetBotton_Click);
             // 
             // Form1
             // 
@@ -152,6 +167,7 @@
             this.Controls.Add(this.QtyLabel);
             this.Controls.Add(this.PriceLabel);
             this.Controls.Add(this.TicketCateLabel);
+            this.Controls.Add(this.ResetBotton);
             this.Controls.Add(this.SummaryButton);
             this.Controls.Add(this.AddButton);
             this.Controls.Add(this.ResultTextBox);
@@ -175,6 +191,7 @@
         private System.Windows.Forms.TextBox PriceTextBox;
         private System.Windows.Forms.Label PriceLabel;
         private System.Windows.Forms.Button SummaryButton;
+        private System.Windows.Forms.Button ResetBotton;
     }
 }
 

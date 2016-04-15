@@ -37,6 +37,8 @@ namespace MovieTicket
 
         private void button1_Click(object sender, EventArgs e)
         {
+            ResetBotton.Visible = false;
+            SummaryButton.Visible = true;
             checkValue();
             ResultTextBox.Text = string.Empty;
             ticket = new Ticket(TicketCateComboBox.SelectedIndex, QtyComboBox.SelectedIndex + 1, discount);
@@ -58,6 +60,9 @@ namespace MovieTicket
             }
             ResultTextBox.Text = string.Format("總金額為:{0}\r\n", totalPrice)
                 + ResultTextBox.Text;
+            AddButton.Enabled = TicketCateComboBox.Enabled = QtyComboBox.Enabled
+                = SummaryButton.Visible = false;
+            ResetBotton.Visible = true;
         }
 
         private void reset()
@@ -97,6 +102,14 @@ namespace MovieTicket
                     price = ticket.StandPrice * discount;
                     break;
             }
+        }
+
+        private void ResetBotton_Click(object sender, EventArgs e)
+        {
+            tickets.Clear();
+            ResetBotton.Visible = SummaryButton.Visible = false;
+            AddButton.Enabled = TicketCateComboBox.Enabled = QtyComboBox.Enabled = true;
+            ResultTextBox.Text = string.Empty;
         }
     }
 }
